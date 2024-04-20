@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/wentaoli/Project-Not-Charted/ProjectNotCharted/Content/ProjectNotCharted/ProjectNotCharted.umap",
+				"/Users/wentaoli/Project-Not-Charted/ProjectNotCharted/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
 				"D:/ZacharysStuff/College/CS 415/Project-Not-Charted-main/Project-Not-Charted-main/ProjectNotCharted/Content/ProjectNotCharted/ProjectNotCharted.umap",
 				"D:/ZacharysStuff/College/CS 415/Project-Not-Charted-main/Project-Not-Charted-main/ProjectNotCharted/Content/ProjectNotCharted/PLATFORMER_StylizedCubeWorld_Vol2/Models/Environment/Vegetations/SM_Ivy_02_C.uasset",
 				"D:/ZacharysStuff/College/CS 415/Project-Not-Charted-main/Project-Not-Charted-main/ProjectNotCharted/Content/ProjectNotCharted/PLATFORMER_StylizedCubeWorld_Vol2/Models/Props/SM_Bridge_02_B.uasset",
