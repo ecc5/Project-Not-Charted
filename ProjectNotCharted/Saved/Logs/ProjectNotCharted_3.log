@@ -1944,3 +1944,41 @@ Continue: Skip saving this asset only.
 [2024.04.20-04.18.58:095][649]LogFileManager: Error: Error moving file '../../../../../Documents/GitHub/Project-Not-Charted/ProjectNotCharted/Content/ProjectNotCharted/PLATFORMER_StylizedCubeWorld_Vol2/Blueprints/BP_PowerUp_Collection_01.uasset' to '../../../../../Documents/GitHub/Project-Not-Charted/ProjectNotCharted/Saved/BP_PowerUp_Collection_01E1747B124421D930E7920BAF5B84DE52.tmp'.
 [2024.04.20-04.18.58:095][649]LogSavePackage: Warning: Failed to move '../../../../../Documents/GitHub/Project-Not-Charted/ProjectNotCharted/Content/ProjectNotCharted/PLATFORMER_StylizedCubeWorld_Vol2/Blueprints/BP_PowerUp_Collection_01.uasset' to temp directory
 [2024.04.20-04.18.58:095][649]LogSavePackage: Error: Error saving '../../../../../Documents/GitHub/Project-Not-Charted/ProjectNotCharted/Content/ProjectNotCharted/PLATFORMER_StylizedCubeWorld_Vol2/Blueprints/BP_PowerUp_Collection_01.uasset'
+[2024.04.20-04.19.10:259][649]LogSlate: Window 'Message' being destroyed
+[2024.04.20-04.19.10:262][649]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/ProjectNotCharted/PLATFORMER_StylizedCubeWorld_Vol2/Blueprints/BP_PowerUp_Collection_01' (BP_PowerUp_Collection_01.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2024.04.20-04.19.10:273][649]EditorErrors: New page: Save Output
+[2024.04.20-04.19.10:273][649]EditorErrors: Warning: Error saving '../../../../../Documents/GitHub/Project-Not-Charted/ProjectNotCharted/Content/ProjectNotCharted/PLATFORMER_StylizedCubeWorld_Vol2/Blueprints/BP_PowerUp_Collection_01.uasset'
+[2024.04.20-04.19.11:148][649]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2024.04.20-04.19.11:158][649]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/ProjectNotCharted/PLATFORMER_StylizedCubeWorld_Vol2/Blueprints/BP_PowerUp_Collection_01
+[2024.04.20-04.19.11:158][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 18.1 sec (total: 53.0 sec)
+[2024.04.20-04.19.12:387][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:388][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:389][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:389][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:389][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:390][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:390][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:390][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:390][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:390][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:392][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:392][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:392][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:393][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:393][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:393][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:393][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:393][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-04.19.12:746][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.20-04.19.12:803][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.20-04.19.13:012][686]LogSavePackage: Moving output files for package: /Game/ProjectNotCharted/ProjectNotCharted
+[2024.04.20-04.19.13:013][686]LogSavePackage: Moving '../../../../../Documents/GitHub/Project-Not-Charted/ProjectNotCharted/Saved/ProjectNotCharted5500E214410A4737B2FBB4974DE9699F.tmp' to '../../../../../Documents/GitHub/Project-Not-Charted/ProjectNotCharted/Content/ProjectNotCharted/ProjectNotCharted.umap'
+[2024.04.20-04.19.13:021][686]LogFileHelpers: Saving map 'ProjectNotCharted' took 0.241
+[2024.04.20-04.19.13:027][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 280 ms (total: 53.2 sec)
+[2024.04.20-04.19.13:038][686]AssetCheck: New page: Asset Save: ProjectNotCharted
+[2024.04.20-04.19.13:038][686]LogContentValidation: Display: Validating /Script/Engine.World /Game/ProjectNotCharted/ProjectNotCharted.ProjectNotCharted
